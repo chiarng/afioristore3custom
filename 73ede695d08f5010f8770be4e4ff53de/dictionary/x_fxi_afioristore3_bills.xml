@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Bill" max_length="40" name="x_fxi_afioristore3_bills" sizeclass="0" type="collection">
+        <element label="Expense" max_length="20" name="amount" type="currency"/>
+        <element label="Vendor" max_length="50" name="from" type="string"/>
+    </element>
+</database>

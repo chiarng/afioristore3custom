@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="amount" label="Amount" language="en" table="x_fxi_afioristore3_bills">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>amount</element>
+            <help/>
+            <hint/>
+            <label>Amount</label>
+            <language>en</language>
+            <name>x_fxi_afioristore3_bills</name>
+            <plural>Amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-03 20:12:10</sys_created_on>
+            <sys_id>02c0fa19db03101025c15886dc961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Amount</sys_name>
+            <sys_package display_value="aFioriStore3" source="x_fxi_afioristore3">73ede695d08f5010f8770be4e4ff53de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="aFioriStore3">73ede695d08f5010f8770be4e4ff53de</sys_scope>
+            <sys_update_name>sys_documentation_x_fxi_afioristore3_bills_amount_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-03 20:12:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="aFioriStore3">73ede695d08f5010f8770be4e4ff53de</claim_owner_scope>
+        <claim_timestamp>17455ea74470000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_x_fxi_afioristore3_bills_amount_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>aFioriStore3</previous_claim_name>
+        <previous_claim_scope>73ede695d08f5010f8770be4e4ff53de</previous_claim_scope>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-09-03 21:41:02</sys_created_on>
+        <sys_id>b8b20f9ddb8310108552ff561d961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2020-09-03 21:41:02</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="from" label="Vendor" language="en" table="x_fxi_afioristore3_bills">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>from</element>
+            <help/>
+            <hint/>
+            <label>Vendor</label>
+            <language>en</language>
+            <name>x_fxi_afioristore3_bills</name>
+            <plural>Vendors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-03 20:13:28</sys_created_on>
+            <sys_id>56c0fa19db03101025c15886dc9619bb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Vendor</sys_name>
+            <sys_package display_value="aFioriStore3" source="x_fxi_afioristore3">73ede695d08f5010f8770be4e4ff53de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="aFioriStore3">73ede695d08f5010f8770be4e4ff53de</sys_scope>
+            <sys_update_name>sys_documentation_x_fxi_afioristore3_bills_from_en</sys_update_name>
+            <sys_updated_by>adriana.fiori@snc</sys_updated_by>
+            <sys_updated_on>2020-09-03 20:28:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="aFioriStore3">73ede695d08f5010f8770be4e4ff53de</claim_owner_scope>
+        <claim_timestamp>17455acb7190000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_x_fxi_afioristore3_bills_from_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>aFioriStore3</previous_claim_name>
+        <previous_claim_scope>73ede695d08f5010f8770be4e4ff53de</previous_claim_scope>
+        <sys_created_by>adriana.fiori@snc</sys_created_by>
+        <sys_created_on>2020-09-03 20:33:36</sys_created_on>
+        <sys_id>4943fe99db03101025c15886dc9619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>adriana.fiori@snc</sys_updated_by>
+        <sys_updated_on>2020-09-03 20:33:36</sys_updated_on>
+    </sys_claim>
+</record_update>
