@@ -3,11 +3,11 @@
         <sys_created_by>adriana.fiori@snc</sys_created_by>
         <sys_created_on>2020-09-03 20:33:36</sys_created_on>
         <sys_id>9543fe99db03101025c15886dc9619e3</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
-        <sys_updated_on>2020-12-15 16:51:43</sys_updated_on>
+        <sys_updated_on>2020-12-15 17:05:57</sys_updated_on>
         <vendor_app display_value="aFioriStore3">73ede695d08f5010f8770be4e4ff53de</vendor_app>
         <vendor_app_version>1.0.0</vendor_app_version>
-        <version>3.2.1</version>
+        <version>3.2.2</version>
     </sys_app_customization>
 </record_update>
